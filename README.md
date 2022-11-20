@@ -9,7 +9,7 @@ docker run -d --name myRedis -p 6379:6379 redis/redis-stack-server:latest
 -- connect redis cli
 docker exec -it myRedis redis-cli
 
--- useful notes
+-- useful notes \n
 https://redis.io/docs/data-types/tutorial/
 KEYS *
 //all delete
