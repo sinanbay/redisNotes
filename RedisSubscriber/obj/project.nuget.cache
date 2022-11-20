@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVn9FKNo12+uW5H2crztJ+Nr+8GVxUh+ZTHX85YgC8HQfJnZzjKoCk2KG68eZY6J6bm/b+hBh6KEugv2RS2uDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sinan\\source\\repos\\RedisStudies\\RedisSubscriber\\RedisSubscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sinan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sinan\\.nuget\\packages\\servicestack.common\\6.4.0\\servicestack.common.6.4.0.nupkg.sha512",
+    "C:\\Users\\sinan\\.nuget\\packages\\servicestack.interfaces\\6.4.0\\servicestack.interfaces.6.4.0.nupkg.sha512",
+    "C:\\Users\\sinan\\.nuget\\packages\\servicestack.redis\\6.4.0\\servicestack.redis.6.4.0.nupkg.sha512",
+    "C:\\Users\\sinan\\.nuget\\packages\\servicestack.text\\6.4.0\\servicestack.text.6.4.0.nupkg.sha512",
+    "C:\\Users\\sinan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\sinan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\sinan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
